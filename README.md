@@ -1,4 +1,6 @@
 # Tesecase-Gconhub
 
 
-Test the Register on the Gconhub Website in case the password does not match. and Verify error message 
+Test01 Able to go to log in result success and show member details
+Test02 Verify to error message password mismatch
+Test03 Verify to error message email
