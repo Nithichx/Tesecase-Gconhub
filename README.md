@@ -1,4 +1,4 @@
-# Tesecase-Gconhub Website
+# Testcase-Gconhub Website
 
 
 Test01 Able to go to log in result success and show member details.   
